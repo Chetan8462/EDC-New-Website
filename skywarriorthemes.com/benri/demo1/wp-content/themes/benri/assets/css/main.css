@@ -1322,7 +1322,7 @@ body .ifb-flip-box-section{
     border-color: rgba(255, 255, 255, 0) rgba(0, 0, 0, 0.08) !important;
 }
 .wpb_column .wpb_wrapper .smile-icon-timeline-wrap .timeline-wrapper .timeline-block {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border-color: rgba(0, 0, 0, 0.08) !important;
 }
 .timeline-block .timeline-header-block {
@@ -2449,7 +2449,7 @@ background-color: rgb(251, 251, 251);
   will-change: animation;
 }
 .fabs:nth-child(1) {
-  background: #1DA1F2 url(../img/Twitter.png) center/28px no-repeat;
+  background: #0072b1  url(../img/linkedin.png) center/28px no-repeat;
   top: -132px;
 }
 .fabs:nth-child(2) {
@@ -2457,7 +2457,7 @@ background-color: rgb(251, 251, 251);
   top: -66px;
 }
 .fabs:nth-child(3) {
-  background: #DB4437 url(../img/Google.png) center/28px no-repeat;
+  background: #DD2A7B url(../img/insta.png) center/28px no-repeat;
 }
 .fabs.active {
   -webkit-animation: 0.48s up forwards;
@@ -3898,10 +3898,11 @@ ul.sub-menu{
 		padding-left:2px;
 	}
 	ul[id^="gallery_content_center_"] > li{
-		width: 50% !important;
+		width: 100% !important;
 	}
 	ul[id^="gallery_content_center_"].gc-padding > li {
-		width: 49% !important;
+		width: 100% !important;
 		margin:0.5% !important;
 	}
 }
+
