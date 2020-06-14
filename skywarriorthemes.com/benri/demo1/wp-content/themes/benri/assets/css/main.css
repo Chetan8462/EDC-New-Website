@@ -291,7 +291,7 @@ ul {
   list-style-position: inside;
 }
 .container{
-	width:1300px;
+	width:1500px;
 	position:relative;
 	margin:0 auto;
 }
@@ -3905,4 +3905,10 @@ ul.sub-menu{
 		margin:0.5% !important;
 	}
 }
-
+.contact {
+  display: flex;
+  flex-direction: row;
+}
+.image {
+  padding: 10px;
+}
